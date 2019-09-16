@@ -1,7 +1,9 @@
 # Ryan Gallaway's Learning Journal
 
-I will add my notes here
+I love the idea of growth mindset.  Perhaps I cannot *yet* but I **can learn more**. 
+- welcome everyone!
+- :+1:
 
 ### TODO list
-- learn the things
-- publish to the web 
+1. learn the things
+2. publish to the web 
