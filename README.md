@@ -6,7 +6,7 @@ I love the idea of growth mindset.  Perhaps I cannot *yet* but I **can learn mor
 
 
 #### external link
-[google link](google.com)
+[google link](https://www.google.com)
 
 ### TODO list
 1. learn the things
