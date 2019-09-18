@@ -6,7 +6,7 @@ I love the idea of growth mindset.  Perhaps I cannot *yet* but I **can learn mor
 
 
 #### external link
-[google link](https://www.google.com)
+[markdown notes](./markdown.md)
 #### embedded image
 ![cute puppy](https://images.app.goo.gl/fmd2LM5PV8ke9ZPr6)
 
